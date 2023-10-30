@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  section {
+    padding: 1em;
+  }
+  
+  footer {
+    text-align: center;
+  }
